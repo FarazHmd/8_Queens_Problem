@@ -9,5 +9,5 @@ have some fun features =)
 .
 .
 .
-# for  ininstaltions run SETUP.exe ;
+# for  installations run SETUP.exe ;
 
